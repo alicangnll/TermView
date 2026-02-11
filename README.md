@@ -31,6 +31,10 @@ Search for **TermView** in the VS Code Extensions Marketplace or install it via 
 ext install termview
 ```
 
+You can install with VSIX file too (Extensions -> Install from VSIX...)
+<img width="794" height="784" alt="image" src="https://github.com/user-attachments/assets/89cb4af4-9bff-487e-a385-3dcba63bc4d0" />
+
+
 ## 👨‍💻 Developed By
 
 **Ali Can Gönüllü**  
